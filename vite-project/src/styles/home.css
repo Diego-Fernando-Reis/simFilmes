@@ -1,0 +1,66 @@
+.banner{
+  min-height: 100vh;
+}
+
+.video{
+  margin: 30px 0;
+}
+
+.video .interno{
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.video h1{
+  font-size: 132px;
+  margin-bottom: 70px;
+}
+
+.video h2{
+  font-size: 60px;
+  font-weight: 400;
+}
+
+.video-{
+  position: relative;
+}
+
+.texto1{
+  position: absolute;
+  top: -50px;
+  left: -70px;
+}
+
+.linesuperior{
+  width: 120px;
+  height: 120px;
+  background-color: transparent;
+  border-top: 25px solid #000;
+  border-right: 25px solid #000;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+}
+
+iframe{
+  background-color: aqua;
+  width: 100%;
+  height: 600px;
+}
+
+.lineinferior{
+  width: 120px;
+  height: 120px;
+  background-color: transparent;
+  border-bottom: 25px solid #000;
+  border-left: 25px solid #000;
+  position: absolute;
+  bottom: -10px;
+  left: -10px;
+}
+
+.texto2{
+  position: absolute;
+  bottom: -40px;
+  right: -70px;
+}
